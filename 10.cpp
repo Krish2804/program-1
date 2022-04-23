@@ -51,6 +51,6 @@ int main()
     {
         cout<<c[i]<<endl;
     }
-    return 0;
+    
 }
 
